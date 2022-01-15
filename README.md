@@ -1,6 +1,7 @@
-<h1>Camden Brown</h1>
-<h2>Software Engineer/Founder/Father/Gamer</h2>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<div>
+  <h1>Camden Brown</h1>
+  <h2>Software Engineer/Founder/Father/Gamer</h2>
+</div>
 
 <h3>Things I use often:</h3>
 
