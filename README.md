@@ -12,6 +12,7 @@
 
 - [Docker/Kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 - [Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
+- [Nestjs](https://www.udemy.com/course/nestjs-zero-to-hero)
 
 <h3>Things I use often:</h3>
 
