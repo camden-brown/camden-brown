@@ -1,7 +1,4 @@
-<div>
-  <h1>Camden Brown</h1>
-  <h2>Software Engineer/Founder/Father/Gamer</h2>
-</div>
+<h1>Camden Brown - Software Engineer/Co-founder/Father/Gamer</h1>
 
 <h3>Things I use often:</h3>
 
