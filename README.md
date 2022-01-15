@@ -16,7 +16,7 @@
 
 <h3>Stuff I dabble in:</h3>
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camden-brown&count_private=true&show_icons=true&theme=material-palenight)
 
