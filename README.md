@@ -5,7 +5,7 @@
  - From Nashville, TN
  - Languages: English, Korean(learning!)
  - All-time favorite games: Everquest and Overwatch
- - Co-founder of [Sympliact](https://sympliact.com/)
+ - Co-founder of Sympliact
  - Avid Trader of: ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ### Things I'm learning
