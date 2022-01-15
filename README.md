@@ -1,4 +1,6 @@
-<h1>Camden Brown - Software Engineer/Co-founder/Father/Gamer</h1>
+## Camden Brown - Software Engineer/Co-founder/Father/Gamer
+<a href='https://www.linkedin.com/in/camden-brown-b6287384/'>	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 <h3>Things I use often:</h3>
 
