@@ -3,6 +3,9 @@
 <a href="mailto: camdenebrown@gmail.com">
  ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
+<a href="https://discordapp.com/users/185980802624913408">
+ ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+</a>
 
 ### About me
  - From Nashville, TN
