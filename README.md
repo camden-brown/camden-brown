@@ -1,4 +1,4 @@
-## Software Engineer - Co-founder - Father - Gamer <br/> <a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://www.codewars.com/users/camden-brown/badges/micro) </a>
+## Software Engineer - Co-founder - Father - Gamer
 <a href='https://www.linkedin.com/in/camden-brown-b6287384/'>	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto: camdenebrown@gmail.com">
  ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -17,6 +17,7 @@
 
 - [Docker/Kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 - [Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
+- <a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://www.codewars.com/users/camden-brown/badges/micro) </a>
 
 <h3>Things I use often:</h3>
 
