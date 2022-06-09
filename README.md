@@ -1,4 +1,3 @@
-# Camden Brown 
 ## Software Engineer/Co-founder/Father/Gamer 
 <a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://www.codewars.com/users/camden-brown/badges/micro) </a>
 <a href='https://www.linkedin.com/in/camden-brown-b6287384/'>	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
