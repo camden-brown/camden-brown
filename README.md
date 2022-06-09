@@ -6,6 +6,7 @@
 <a href="https://discordapp.com/users/185980802624913408">
  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 </a>
+<a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) </a>
 
 ### About me
  - From Nashville, TN
@@ -17,7 +18,6 @@
 
 - [Docker/Kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 - [Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
-- <a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://www.codewars.com/users/camden-brown/badges/micro) </a>
 
 <h3>Things I use often:</h3>
 
