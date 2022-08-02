@@ -14,11 +14,6 @@
  - All-time favorite games: Everquest and Overwatch
  - Co-founder of Sympliact
 
-### Things I'm learning
-
-- [Docker/Kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
-- [Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
-
 <h3>Things I use often:</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
