@@ -6,7 +6,7 @@
 <a href="https://discordapp.com/users/185980802624913408">
  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 </a>
-<a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) </a>
+<a href='https://www.codewars.com/users/camden-brown'>![CodeWars](https://www.codewars.com/users/jhoffner/badges/small) </a>
 
 ### About me
  - From Nashville, TN
