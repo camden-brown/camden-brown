@@ -17,7 +17,7 @@
  - All-time favorite games: Everquest and Overwatch
  - Co-founder of Sympliact
 
-<h3>Things I use often:</h3>
+<h3>Things I use and enjoy:</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,6 +40,4 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-<h3>Stuff I dabble in:</h3>
 ![Go](https://img.shields.io/badge/go-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
