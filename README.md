@@ -7,8 +7,6 @@
  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 <br/>
-[![LeetCode user camdenebrown](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcamdenebrown&logo=leetcode&logoColor=yellow)](https://leetcode.com/camdenebrown/)
-
 <h3>Things I use:</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
