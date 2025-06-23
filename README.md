@@ -7,6 +7,9 @@
  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 <br/>
+<a href='https://www.boot.dev/u/cebrown'>
+  <img src='https://img.shields.io/badge/boot.dev-563D7C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iNCIgZmlsbD0iIzU2M0Q3QyIvPjxwYXRoIGQ9Ik04IDMuNWMtMS4zIDAtMi4zLjUtMyAxLjV2Ni4wYzAgMSAuNyAxLjUgMyAxLjVzMy0uNSAzaC4wYzIuMyAwIDMtLjUgMy0xLjV2LTZjLS43LTEtMS43LTEuNS0zLTEuNXptMCAxYy44IDAgMS40LjMgMS44LjguNC41LjYgMS4yLjYgMi4ydi42YzAgMS0uMiAxLjctLjYgMi4yLS40LjUtMS4xLjgtMS44LjgtLjggMC0xLjQtLjMtMS44LS44LS40LS41LS42LTEuMi0uNi0yLjJ2LS42YzAtMSAuMi0xLjcuNi0yLjIuNC0uNSAxLjEtLjggMS44LS44eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==' alt='boot.dev' />
+</a>
 <h3>Things I use:</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
