@@ -31,7 +31,7 @@ I'm a **full-stack software engineer** with a passion for building polished, per
 
 When I'm not shipping code, I'm being a dad or deep in a game — both of which have taught me a lot about patience, strategy, and never giving up when something's hard.
 
-- 🔭 **Currently:** Open to new full-time opportunities
+- 🔭 **Currently:** Open to full-time & contract opportunities
 - 🌱 **Sharpening:** Backend fundamentals via [boot.dev](https://www.boot.dev/u/cebrown) (Go, algorithms, CS concepts)
 - 💬 **Ask me about:** Angular, TypeScript, GraphQL, or cloud architecture
 - 📍 **Based in:** Tennessee, USA
@@ -82,16 +82,16 @@ When I'm not shipping code, I'm being a dad or deep in a game — both of which 
 ---
 
 ## 🚀 Featured Projects
-
-🤖 Stonkss AI — Algorithmic Trade Bot
-A full-stack algorithmic trading platform that integrates with the Charles Schwab Developer API to place real orders, fetch live market quotes, and manage brokerage accounts — all through a self-hosted GraphQL interface.
-
-📈 Live trading — OAuth2-authenticated connection to Schwab; place, query, and manage real orders
-🔍 Market data — real-time quote fetching for single and multiple symbols
-🗄️ PostgreSQL + TypeORM — schema migrations, UUID-based entities, production-safe data layer
-🧱 Nx monorepo — modular architecture with a NestJS API backend, ESLint, Prettier, and Vitest
-
-Stack: TypeScript · NestJS · GraphQL · PostgreSQL · TypeORM · Nx · Node.js
+ 
+### 🤖 [Stonkss AI — Algorithmic Trade Bot](https://github.com/camden-brown/trade-bot)
+ 
+A full-stack algorithmic trading platform that integrates with the **Charles Schwab Developer API** to place real orders, fetch live market quotes, and manage brokerage accounts — all through a self-hosted GraphQL interface.
+ 
+- 📈 **Live trading** — OAuth2-authenticated connection to Schwab; place, query, and manage real orders
+- 🔍 **Market data** — real-time quote fetching for single and multiple symbols
+- 🗄️ **PostgreSQL + TypeORM** — schema migrations, UUID-based entities, production-safe data layer
+- 🧱 **Nx monorepo** — modular architecture with a NestJS API backend, ESLint, Prettier, and Vitest
+**Stack:** TypeScript · NestJS · GraphQL · PostgreSQL · TypeORM · Nx · Node.js
 
 ---
 
