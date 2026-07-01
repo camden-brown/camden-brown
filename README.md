@@ -2,12 +2,15 @@
 
 <!-- Dynamic typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Camden+Brown+%F0%9F%91%8B;Software+Engineer+%7C+Father+%7C+Gamer;Building+clean%2C+scalable+web+apps;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Camden+Brown+%F0%9F%91%8B;Full-Stack+TypeScript+Engineer;Founding+Engineer+%40+Sympliact;Angular+%C2%B7+Node+%C2%B7+GraphQL;Open+to+new+opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
+<a href="https://camden-brown.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=astro&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/camden-brown-b6287384/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -27,14 +30,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack software engineer** with a passion for building polished, performant web applications. I specialize in Angular-based frontend architecture, RESTful and GraphQL APIs, and cloud-deployed services.
+I'm a **full-stack TypeScript engineer** — Angular on the front end, **Node** and GraphQL on the back (with Rails where it fits). For the last seven years I've been the **founding engineer at [Sympliact](https://camden-brown.github.io/projects/sympliact/)**, building a healthcare platform from an empty repo to production: two Angular PWAs on a Rails + GraphQL backend now driving **4,200+ patient sign-ups across 45 states** and supporting **260+ active practice staff**.
 
 When I'm not shipping code, I'm being a dad or deep in a game — both of which have taught me a lot about patience, strategy, and never giving up when something's hard.
 
-- 🔭 **Currently:** Open to full-time & contract opportunities
+- 🔭 **Currently:** Founding engineer @ Sympliact — open to full-time & contract opportunities
 - 🌱 **Sharpening:** Backend fundamentals via [boot.dev](https://www.boot.dev/u/cebrown) (Go, algorithms, CS concepts)
-- 💬 **Ask me about:** Angular, TypeScript, GraphQL, or cloud architecture
-- 📍 **Based in:** Tennessee, USA
+- 💬 **Ask me about:** Angular, TypeScript, Node, GraphQL, or cloud architecture
+- 🌐 **Portfolio:** [camden-brown.github.io](https://camden-brown.github.io)
+- 📍 **Based in:** Cookeville, Tennessee, USA
 
 ---
 
@@ -47,17 +51,19 @@ When I'm not shipping code, I'm being a dad or deep in a game — both of which 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-%23593d88.svg?style=for-the-badge&logo=ngrx)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Databases**
 
@@ -72,32 +78,46 @@ When I'm not shipping code, I'm being a dad or deep in a game — both of which 
 
 **Testing**
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ---
 
-</div>
+## 🚀 Featured Projects
+
+### 🏥 Sympliact — Healthcare Platform &nbsp;·&nbsp; _Founding Engineer_
+
+Two Angular PWAs (practice + patient) on a Rails + GraphQL backend, built greenfield → production and owned end-to-end for seven years. Proprietary, so there's no public repo — but there's a full case study on my portfolio.
+
+- 🏥 **Two PWAs** — a practice admin app and a companion patient app, sharing one typed GraphQL API
+- 📈 **Real scale** — 4,200+ patient sign-ups across 45 states, 260+ active practice staff
+- ✅ **Automated QA** — a dual-mode Playwright suite that runs both mocked (no backend) and live
+- 🧱 **Stack** — Angular · TypeScript · NgRx · Rails · GraphQL · PostgreSQL · Auth0 · Playwright
+
+🔗 **[Read the case study →](https://camden-brown.github.io/projects/sympliact/)**
 
 ---
 
-## 🚀 Featured Projects
- 
 ### 🤖 [Stonkss AI — Algorithmic Trade Bot](https://github.com/camden-brown/trade-bot)
- 
-A full-stack algorithmic trading platform that integrates with the **Charles Schwab Developer API** to place real orders, fetch live market quotes, and manage brokerage accounts — all through a self-hosted GraphQL interface.
- 
-- 📈 **Live trading** — OAuth2-authenticated connection to Schwab; place, query, and manage real orders
-- 🔍 **Market data** — real-time quote fetching for single and multiple symbols
-- 🗄️ **PostgreSQL + TypeORM** — schema migrations, UUID-based entities, production-safe data layer
-- 🧱 **Nx monorepo** — modular architecture with a NestJS API backend, ESLint, Prettier, and Vitest
-**Stack:** TypeScript · NestJS · GraphQL · PostgreSQL · TypeORM · Nx · Node.js
+
+A full-stack, multi-broker algorithmic trading platform (Nx monorepo) with a **Claude-powered analysis engine** and a **Discord** command interface. Connects to the **Charles Schwab** (OAuth2) and **Alpaca** APIs to place real orders, stream live quotes, and run technical-analysis strategies.
+
+- 🧠 **Claude analysis engine** — tool-calling LLM that runs technical-analysis strategies and entry/exit logic over live market data
+- 💬 **Discord bot** — scanner, price, and position commands with per-channel authorization and DM support
+- 📈 **Live trading** — OAuth2 Schwab + Alpaca brokers; place, query, and manage real orders
+- 🧱 **Nx monorepo** — NestJS + Apollo GraphQL API, PostgreSQL/TypeORM, an Angular web client, and Playwright e2e
+
+**Stack:** TypeScript · NestJS · GraphQL · PostgreSQL · TypeORM · Angular · Claude · Discord · Nx
 
 ---
 
 <div align="center">
-  <i>Currently open to full-time opportunities — let's build something great together.</i>
+  <i>Currently open to full-time & contract opportunities — let's build something great together.</i>
   <br/><br/>
+  <a href="https://camden-brown.github.io">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-58A6FF?style=for-the-badge&logo=astro&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/camden-brown-b6287384/">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
